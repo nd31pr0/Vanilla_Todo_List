@@ -6,6 +6,9 @@ This project is a todo list app built with html, css and js. Todo items are adde
 ## Getting Started
 
 ## Dependencies
-
+To install the dependencies, run:
+```npm install```
 ## Executing program
-npx webpack
+Build the project with:
+```npx webpack --mode development```
+Then, Open dist/index.html in a web browser to see and interact with the To-Do list application.
