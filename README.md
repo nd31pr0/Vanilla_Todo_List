@@ -11,4 +11,5 @@ To install the dependencies, run:
 ## Executing program
 Build the project with:
 ```npx webpack --mode development```
-Then, Open dist/index.html in a web browser to see and interact with the To-Do list application.
+Then, Open dist/index.html in a web browser to see and interact with the To-Do list application or run from command prompt:
+```npx webpack serve --open``` 
